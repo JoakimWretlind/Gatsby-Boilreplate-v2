@@ -1,7 +1,7 @@
 t{
   "name": "Gatsby-Boilerplate",
   "private": true,
-  "description": "A starter including styled-components, google-fonts, react-helmet, source-filesystem and more.",
+  "description": "A starter including styled-components and more.",
   "version": "0.1.0",
   "author": "Joakim Wretlind",
   "dependencies": {
